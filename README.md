@@ -1,10 +1,11 @@
 # Electricity
-  ![electricity](https://www.extremetech.com/wp-content/uploads/2012/01/LightningBolt1-348x196.jpg)
+  ![electricity](https://media1.giphy.com/media/CKlafeh1NAxz35KTq4/giphy.gif?cid=ecf05e47xpw4wpagb49e1wj0wg8ledg73vx06iod0ju0exhd&rid=giphy.gif)
+  
 
 by Anisha
 
 # Introduction
-What do you think of the word electricity ?do you think of light bulbs,or lightning.Well, in this presentation I will talk about static electricity,fossil
+What do you think of the word electricity? Do you think of light bulbs,or lightning.Well, in this presentation I will talk about static electricity,fossil
 fuels,energy sources,energy development,energy circuit,safety and fun facts.So let's get started!
 
 ## Static electricity
