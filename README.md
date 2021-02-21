@@ -3,7 +3,7 @@
 
 by Anisha
 
-# intro
+# Introduction
 What do you think of the word electricity ?do you think of light bulbs,or lightning.Well, in this presentation I will talk about static electricity,fossil
 fuels,energy sources,energy development,energy circuit,safety and fun facts.So let's get started!
 
