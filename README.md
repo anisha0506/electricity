@@ -47,3 +47,6 @@ safe to touch even if it is down or appears to be insulated. Never touch a falle
 3. The average taser emits 50,000 volts.
 
 4. A bolt of lightning can measure up to three million (3,000,000) volts (and lasts less than one second).
+
+![Thank You](https://media1.giphy.com/media/3ohs7JG6cq7EWesFcQ/giphy.gif)
+
