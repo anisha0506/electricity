@@ -26,3 +26,24 @@ planet earth.
 Energy development is the field of activities focused on obtaining sources of energy from natural resources. These activities include production of conventional,
 alternative and renewable sources of energy, and for the recovery and reuse of energy that would otherwise be wasted.
 
+## Energy Circuit
+
+An electric circuit is a complete loop where electricity is flowing to power components in that loop. And electricity is the continuous flow of electrons.Electric
+circuits also involve energy transfers. Chemical energy in the battery is changed into electrical potential energy on the two sides of the battery.
+To make an electric circuit,you need 3 main parts.You need a source like a battery.Something to pass energy to,like a light bulb.Last,but not least something to
+make the loop,like a wire.1 wire carries positive energy,while the other carries negative.That is all about energy circuits.
+
+## Electricity Safety
+
+Electrical hazards can cause burns, shocks and electrocution (death). Assume that all overhead wires are energized at lethal voltages. Never assume that a wire is
+safe to touch even if it is down or appears to be insulated. Never touch a fallen overhead power line.
+
+## Fun facts
+
+1. Electricity travels at the speed of light, about 300,000 kilometres per second.
+
+2. A spark of static electricity can measure up to 3,000 volts.
+
+3. The average taser emits 50,000 volts.
+
+4. A bolt of lightning can measure up to three million (3,000,000) volts (and lasts less than one second).
